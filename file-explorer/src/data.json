@@ -1,0 +1,53 @@
+{
+	"structure": {
+		"id": 1,
+		"type": "folder",
+		"name": "root",
+		"items": [
+			{
+				"id": 2,
+				"type": "folder",
+				"name": "src",
+				"items": [
+					{
+						"id": 3,
+						"type": "folder",
+						"name": "assets",
+						"items": [
+							{
+								"id": 4,
+								"type": "file",
+								"name": "logo.png",
+								"items": []
+							},
+							{
+								"id": 5,
+								"type": "file",
+								"name": "image.png",
+								"items": []
+							}
+						]
+					},
+					{
+						"id": 6,
+						"type": "file",
+						"name": "App.jsx",
+						"items": []
+					},
+					{
+						"id": 7,
+						"type": "file",
+						"name": "App.scss",
+						"items": []
+					},
+					{
+						"id": 8,
+						"type": "file",
+						"name": "package.json",
+						"items": []
+					}
+				]
+			}
+		]
+	}
+}

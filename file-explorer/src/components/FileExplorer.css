@@ -1,0 +1,21 @@
+.folder__directory,
+.file__directory {
+    cursor: pointer;
+    max-width: fit-content;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.folder__directory {
+    min-width: 160px;
+}
+
+.display__folder__content {
+    display: block;
+    padding-left: 20px;
+}
+
+.hide__folder__content {
+    display: none;
+}
