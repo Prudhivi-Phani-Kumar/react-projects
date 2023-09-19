@@ -1,0 +1,37 @@
+.progress-bar-container {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.progress-bar {
+    position: relative;
+    height: 25px;
+    width: calc(100vw - 40%);
+    background-color: rgb(233, 236, 239);
+    border: 1px solid teal;
+    border-radius: 15px;
+    margin: 0;
+    padding: 0;
+    line-height: 24px;
+    overflow: hidden;
+}
+
+.progress-bar span {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    z-index: 2;
+}
+
+.progress-bar div {
+    height: 100%;
+    background-color: #00c251;
+}
