@@ -7,3 +7,5 @@
 
 ![image](https://github.com/Prudhivi-Phani-Kumar/react-projects/assets/138499569/f19c596c-6338-4e3f-98b0-de5277433c9e)
 
+3. Progress Bar:
+![image](https://github.com/Prudhivi-Phani-Kumar/react-projects/assets/138499569/ed4461b9-0312-4763-8d07-609fc9ac21e1)
